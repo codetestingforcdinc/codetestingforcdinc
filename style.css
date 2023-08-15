@@ -1,0 +1,75 @@
+* {
+    background:
+        rgba(0, 0, 0, 0.979);
+    color: white;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+}
+
+.logo {
+    float: left;
+}
+
+.right {
+    float: right;
+    text-decoration: none;
+    margin: 10px;
+    font-size: x-large;
+}
+
+.abt {
+    font-size: xx-large;
+}
+
+.portpic {
+    margin-left: 100px;
+
+}
+
+.imgtxth {
+    margin-left: 850px;
+    margin-top: -200px;
+    font-size: 4em;
+    color: rgb(168, 13, 13);
+}
+
+.imgtext {
+    margin-left: 850px;
+    margin-top: -200px;
+}
+
+button {
+    background: #ff0000;
+    border-radius: 50px;
+
+    width: 150px;
+    height: 60px;
+    font-size: x-large;
+}
+
+.abtme {
+    font-size: 3em;
+    margin-left: 830px;
+}
+
+.abtconxt {
+    margin-left: 830px;
+    font-size: x-large;
+}
+
+.pter {
+    cursor: pointer;
+}
+
+.cntc {
+    margin-left: 830px;
+    font-size: xx-large;
+}
+
+.cntctxt {
+    margin-left: 830px;
+    font-size: x-large;
+}
